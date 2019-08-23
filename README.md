@@ -106,7 +106,7 @@ module.exports = {
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
-  author: 'LekoArts', // Author for schema.org JSONLD
+  author: 'Jonathan Root', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   userTwitter: '@emilia', // Twitter Username
@@ -120,8 +120,8 @@ module.exports = {
 
   // Your information
   avatar: '/logos/lekoarts.png',
-  name: 'LekoArts',
-  location: 'Germany',
+  name: 'Jonathan Root',
+  location: 'Seattle',
   socialMedia: [
     {
       url: 'https://twitter.com/lekoarts_de',
