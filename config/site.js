@@ -22,21 +22,21 @@ module.exports = {
   backgroundColor: '#2b2e3c',
 
   // Your information
-  avatar: '/logos/lekoarts.png',
+  avatar: '/logos/lekoarts.svg',
   name: 'Jonathan Root',
   location: 'Seattle',
   socialMedia: [
     {
-      url: 'https://twitter.com/lekoarts_de',
-      name: 'Twitter',
+      url: 'https://www.linkedin.com/in/jonathanroot/',
+      name: 'LinkedIn',
     },
     {
-      url: 'https://www.instagram.com/lekoarts.de',
+      url: 'https://www.instagram.com/mrinstajonagram/',
       name: 'Instagram',
     },
     {
-      url: 'https://www.lekoarts.de/en',
-      name: 'Homepage',
+      url: 'https://github.com/jaroot32',
+      name: 'Github',
     },
   ],
 }

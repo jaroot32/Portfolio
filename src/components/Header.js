@@ -30,7 +30,7 @@ const Avatar = styled.div`
   -ms-interpolation-mode: nearest-neighbor;
 
   img {
-    border-radius: 50%;
+    // border-radius: 50%;
   }
 `
 
@@ -39,11 +39,13 @@ const Name = styled.h1`
   color: ${props => props.theme.colors.color};
 `
 
-const Location = styled.div`
-  font-size: 0.9rem;
+const Location = styled.h2`
+  // font-size: 0.9rem;
   display: flex;
+  color: ${props => props.theme.colors.color};
   align-items: center;
   justify-content: center;
+  margin: 1rem 0 0.25rem 0;
 `
 
 const SocialMedia = styled.div`
