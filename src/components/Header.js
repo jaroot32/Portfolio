@@ -45,7 +45,6 @@ const Location = styled.h2`
   color: ${props => props.theme.colors.color};
   align-items: center;
   justify-content: center;
-  margin: 1rem 0 0.25rem 0;
 `
 
 const SocialMedia = styled.div`
