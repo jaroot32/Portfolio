@@ -20,7 +20,7 @@ module.exports = {
   backgroundColor: '#2b2e3c',
 
   // Your information
-  avatar: '/logos/lekoarts.svg',
+  avatar: '/logos/logo.svg',
   name: 'Jonathan Root',
   location: 'Seattle',
   socialMedia: [
