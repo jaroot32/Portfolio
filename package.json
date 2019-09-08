@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-portfolio-emilia",
-  "description": "Dark themed, image-heavy portfolio. Page transitions & animations. Big images & gatsby-mdx.",
+  "name": "gatsby-starter-portfolio-jonathan-root",
+  "description": "Jonathan Root's Portfolio Site with different work examples",
   "version": "3.0.0",
-  "author": "LekoArts <hello@lekoarts.de> (https://www.lekoarts.de)",
+  "author": "Jonathan Root with the help of the LekoArts gabtsby starter<hello@lekoarts.de> (https://www.lekoarts.de)",
   "scripts": {
     "develop": "gatsby develop",
     "dev": "gatsby develop -o",

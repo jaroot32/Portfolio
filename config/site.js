@@ -4,16 +4,16 @@ module.exports = {
   siteTitle: 'Jonathan Root', // Navigation and Site Title
   siteTitleAlt: 'Jonathan Root -  Project Portfolio', // Alternative Site title for SEO
   siteTitleShort: 'Jonathan Root', // short_name for manifest
-  siteHeadline: 'Examples of my work as a UI/UX and Web Specialist', // Headline for schema.org JSONLD
-  siteUrl: 'https://emilia.lekoarts.de', // Domain of your site. No trailing slash!
+  siteHeadline: 'Examples of my work as a Developer', // Headline for schema.org JSONLD
+  siteUrl: 'https://ecstatic-leakey-76d0ff.netlify.com/', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
-  siteLogo: '/logos/logo.png', // Used for SEO and manifest
-  siteDescription: 'Dark One-Page portfolio with cards & detailed project views',
-  author: 'LekoArts', // Author for schema.org JSONLD
+  siteLogo: '/logos/logo.svg', // Used for SEO and manifest
+  siteDescription: 'Examples of my work as a Developer, Instructor, Mentor, and Designer',
+  author: 'Jonathan Root', // Author for schema.org JSONLD
 
   // siteFBAppID: '123456789', // Facebook App ID - Optional
   ogLanguage: 'en_US', // og:language
-  googleAnalyticsID: 'UA-47519312-4',
+  // googleAnalyticsID: 'UA-47519312-4',
 
   // Manifest and Progress color
   themeColor: '#3498DB',
