@@ -8,8 +8,8 @@ module.exports = {
     color: 'white',
     dark_bg: 'black',
     secondary: '#b6b6b6',
-    link: '#328bff',
-    linkHover: '#79a8ff',
+    link: '#94c2ff',
+    linkHover: '#edf3ff',
   },
   maxWidths: {
     general: '1600px',
