@@ -5,7 +5,7 @@ module.exports = {
   siteTitleAlt: 'Jonathan Root -  Project Portfolio', // Alternative Site title for SEO
   siteTitleShort: 'Jonathan Root', // short_name for manifest
   siteHeadline: 'Examples of my work as a Developer', // Headline for schema.org JSONLD
-  siteUrl: 'https://emilia.lekoarts.de', // Domain of your site. No trailing slash!
+  siteUrl: 'https://jonathanrootdeveloper.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.svg', // Used for SEO and manifest
   siteDescription: 'Examples of my work as a Developer, Instructor, Mentor, and Designer',
