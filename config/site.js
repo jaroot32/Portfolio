@@ -29,10 +29,6 @@ module.exports = {
       name: 'LinkedIn',
     },
     {
-      url: 'https://www.instagram.com/mrinstajonagram/',
-      name: 'Instagram',
-    },
-    {
       url: 'https://github.com/jaroot32',
       name: 'Github',
     },
